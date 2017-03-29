@@ -1,0 +1,4 @@
+services:
+#    xandrusoft_task.example:
+#        class: Xandrusoft\TaskBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

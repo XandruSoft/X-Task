@@ -1,0 +1,7 @@
+xandrusoft_task_homepage:
+    path:     /
+    defaults: { _controller: XandrusoftTaskBundle:Default:index }
+
+xandrusoft_task_trello:
+    path:     /trello
+    defaults: { _controller: XandrusoftTaskBundle:Default:trello }
